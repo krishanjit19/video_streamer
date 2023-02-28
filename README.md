@@ -1,5 +1,6 @@
 # video_streamer
-This is a video streaming website that allows users to upload and watch videos. This website is built using HTML, CSS, and JavaScript for the front-end and Node.js for the back-end.
+This is a video streaming website that allows users to upload and watch videos. This website is built using MERN Stack. 
+
 
 Features
 Users can create accounts and log in
